@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+<center> <h1>Amplifying Action-context Greater: Image segmentation-guided Active Bleeding Localization in intraoperative gastrectomy</h1> </center>
+
+
+![main figure](./figs/overall.pdf) The schematic diagram of active bleeding framework using our proposed model AMAGI
+
+![main figure](./figs/fusion_archi.pdf) Proposed fusion-based active bleeding recognition model AMAGI.
+
 
 You can use the [editor on GitHub](https://github.com/amagi-project/amagi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
