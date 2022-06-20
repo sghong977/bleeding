@@ -38,6 +38,6 @@ Comparisons of SlowFast and AMAGI on blood count and duration for each 30 test c
 ## Code with pretrained model
 Here is our modified version of [mmaction2](https://github.com/amagi-project/mmaction2) for active bleeding framework.
 
-* Implementation of fusion model in './mmaction/models/{segmentors|heads|backbones}'
+* Implementation of fusion model in './mmaction/models/<u>segmentors|heads|backbones<u>'
 * train and inference scripts are in './my_tools/*.sh' 
 * pretrained semantic segmentation model and fusion model AMAGI will be publicly available.
