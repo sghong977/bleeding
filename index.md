@@ -6,38 +6,29 @@
 ![fusion figure](./figs/fusion_archi.png) Proposed fusion-based active bleeding recognition model AMAGI.
 
 
-You can use the [editor on GitHub](https://github.com/amagi-project/amagi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### GradCAM Visualization
+Example gifs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Data Type | frames                | Fast Pathway (SlowFast)                     | Fast Pathway (AMAGI)                     | Fusion Layer (AMAGI)                     |
+|:---------:| ----------------------- | ------------------------ | ------------------------- |
+| Ex1       |  <img src="./figs/82400_82408_conv3.gif" width="200"> |  <img src="./figs/sf50_82400_82408_conv3_gcam.gif" width="200"> | <img src="./figs/amagi_82400_82408_conv3_gcam.gif" width="200"> | <img src="./figs/amagi_82400_82408_map_fast2_gcam.gif" width="200"> |
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Surgical Analysis Index
+Comparisons of SlowFast and AMAGI on blood count and duration for each 30 test cases.
 
-[Link](url) and ![Image](src)
-```
+### Split 1
+<img src="./figs/split1.png" height="180">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Split2 
+<img src="./figs/split2.png" height="180">
 
-### Jekyll Themes
+### Split 3
+<img src="./figs/split3.png" height="180">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amagi-project/amagi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
