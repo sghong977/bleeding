@@ -14,7 +14,7 @@ Example gifs
 
 | Data Type | frames                | Fast Pathway (SlowFast)                     | Fast Pathway (AMAGI)                     | Fusion Layer (AMAGI)                     |
 |:---------:| ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
-| Ex1       |  <img src="./figs/82400_82408_conv3.gif" height="300"> |  <img src="./figs/sf50_82400_82408_conv3_gcam.gif" height="300"> | <img src="./figs/amagi_82400_82408_conv3_gcam.gif" height="300"> | <img src="./figs/amagi_82400_82408_map_fast2_gcam.gif" height="300"> |
+| Ex1       |  <img src="./figs/82400_82408_conv3.gif"  width="300" height="300"> |  <img src="./figs/sf50_82400_82408_conv3_gcam.gif" width="300" height="300"> | <img src="./figs/amagi_82400_82408_conv3_gcam.gif"  width="300" height="300"> | <img src="./figs/amagi_82400_82408_map_fast2_gcam.gif"  width="300" height="300"> |
 
 
 
