@@ -23,12 +23,12 @@ Example gifs
 Comparisons of SlowFast and AMAGI on blood count and duration for each 30 test cases.
 
 ### Split 1
-<img src="./figs/split1.png" height="180">
+<img src="./figs/split1.png" height="400">
 
 ### Split2 
-<img src="./figs/split2.png" height="180">
+<img src="./figs/split2.png" height="400">
 
 ### Split 3
-<img src="./figs/split3.png" height="180">
+<img src="./figs/split3.png" height="400">
 
 
