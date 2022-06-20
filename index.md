@@ -44,12 +44,12 @@ Here is our modified version of [mmaction2](https://github.com/amagi-project/mma
 
 1. Modified implementation of fusion architecture is in
 ```bash
-'./mmaction/models/{ segmentors | heads | backbones }'
+./mmaction/models/{segmentors|heads|backbones}
 ```
 
 2. train and inference scripts are in
 ```bash
-'./my_tools/{ amagi_train.sh | amagi_inf.sh }' 
+./my_tools/{amagi_train.sh|amagi_inf.sh} 
 ```
 
 3. Pretrained semantic segmentation model and fusion model AMAGI are publicly available in our google drive [here](https://drive.google.com/drive/folders/1dGLRZIEo-kiZZrtXV4XdfdCuEYdsysGb?usp=sharing).
