@@ -33,3 +33,8 @@ Comparisons of SlowFast and AMAGI on blood count and duration for each 30 test c
 <img src="./figs/split3.png" height="500">
 
 
+
+
+#### Installation
+* Our modified version of [mmaction2](https://github.com/amagi-project/unknown) for active bleeding framework.
+
