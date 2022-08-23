@@ -40,7 +40,7 @@ Comparisons of SlowFast and AMAGI on blood count and duration for each 30 test c
 
 
 ## Code with pretrained model
-Here is our modified version of [mmaction2](https://github.com/amagi-project/mmaction2) for active bleeding framework.
+Here is our [modified version of mmaction2](https://github.com/sghong977/Surgical-Bleeding-AMAGI.git) for active bleeding framework.
 
 1. Modified implementation of fusion architecture is in
 ```bash
