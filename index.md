@@ -1,9 +1,6 @@
 <center> <h1>Amplifying Action-context Greater: Image segmentation-guided Active Bleeding Localization in intraoperative gastrectomy</h1> </center>
 
 
-In these supplementary materials, we follow the anonymization rule.
-
-
 
 ### Proposed Active Bleeding Framework
 ![overall figure](./figs/overall.png) The schematic diagram of active bleeding framework using our proposed model AMAGI.
